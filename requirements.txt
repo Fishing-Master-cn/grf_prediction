@@ -1,0 +1,10 @@
+keras==2.8.0
+matplotlib==3.3.4
+numpy==1.22.3
+torch==1.9.0+cu102
+tqdm==4.61.2
+xlrd==2.0.1
+torchvision~=0.10.0+cu102
+PyYAML~=5.4.1
+scikit-image~=0.17.2
+scikit-learn~=0.24.2
